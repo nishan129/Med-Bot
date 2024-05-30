@@ -4,5 +4,5 @@ pinecone-client
 langchain==0.0.255
 flask
 python-dotenv
-
+faiss-cpu
 -e .
