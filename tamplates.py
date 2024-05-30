@@ -12,7 +12,7 @@ list_files = [
     "setup.py",
     "app.py",
     "store_index.py",
-    "static",
+    "static/.gitkeep",
     "templates/index.html"
 ]
 
